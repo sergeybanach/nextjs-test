@@ -1,0 +1,17 @@
+.Header {
+    /* min-height: 150px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+    background: rgb(224,223,255);   
+    background: linear-gradient(151deg, rgba(224,223,255,1) 0%, rgba(0,212,255,1) 100%);
+    color: black;
+    gap: 20px;
+    border-radius: 20px;
+
+}
